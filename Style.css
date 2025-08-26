@@ -65,7 +65,7 @@ section h2 {
 
 .Memes figure {
   flex: 1 1 calc(33.333% - 1.5rem);
-  max-width: 350px;
+  max-width: cal(33.333% - 1.5rem);
   border: 2px solid #8b5e34;
   border-radius: 12px;
   overflow: hidden;
@@ -94,3 +94,4 @@ footer {
   color: #ffd700;
   font-weight: bold;
 }
+
